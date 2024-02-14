@@ -16,3 +16,7 @@ DISCLAIMER: But hey, let's not forget the essence of fun! While others may be sh
 Curious to see our madness in action? Check out our showcase video here: [QBOX Merchandise Showcase](https://youtu.be/HzbGfmUNKjs)
 
 Get ready to dive into a world where innovation meets entertainment – welcome to QBOX! 🦆
+
+
+DISCLAIMER: While we're all about the fun, it's important to note that I, as the creator of this content, am not an official representative of QBOX. 
+I'm just here to add a little extra laughter to the mix and respond to the humor of other frameworks. 😄
