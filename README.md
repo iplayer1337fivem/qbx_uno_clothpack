@@ -12,7 +12,8 @@ We are QBOX. We are a legion of innovators. We do not compromise on security. We
 
 DISCLAIMER - all this is just for fun as other frameworks started sharing ingame merch :) And as always QBX will provide more :D
 
-Showcase video: 
+Showcase video: https://youtu.be/HzbGfmUNKjs
+
 
 
 
