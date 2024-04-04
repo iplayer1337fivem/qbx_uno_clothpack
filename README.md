@@ -20,3 +20,5 @@ Get ready to dive into a world where innovation meets entertainment – welcome 
 
 DISCLAIMER: While we're all about the fun, it's important to note that I, as the creator of this content, am not an official representative of QBOX. 
 I'm just here to add a little extra laughter to the mix and respond to the humor of other frameworks. 😄
+
+04.04.2024 - Version 2.0 released packed in GRZYCLOTHTOOL - no more messing around ! [GITHUB GRZY CLOTH TOOL](https://github.com/grzybeek/grzyClothTool/releases)
